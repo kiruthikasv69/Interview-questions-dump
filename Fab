@@ -1,0 +1,15 @@
+Production server shows health check as abnormal but memory and cpu is normal how to identify this , troubleshoot this  resolve it and how to avoid this in future
+
+How can u design a infra without much downtime when subjected to sudden traffic spike
+
+Containerised apps in AWS need to handle 1million concurrent users how it can ? How will you design ?
+
+If load balancing is for the above 1 milion concurrent users how will you choose load balancing ? How will you design it
+
+If AWS cost increased 300 eventhough there is no change in number of resources how will you resolve this
+
+If there is state file been deleted how will you resolve ? Hashicorp documention is there but it failed during deployment what will you do
+
+Explain cicd pipeline failure how did you resolve it
+
+explain if there is a configuration change in aws how will you identify it 
