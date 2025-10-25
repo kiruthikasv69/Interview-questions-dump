@@ -1,0 +1,16 @@
+what are the build tools you have used like maven build
+
+TF to create EC2 module 
+
+state managemment 
+
+bash script you know ? 
+
+write docker multistage 
+
+after running a container it shows pending status how to resolve it 
+-- kubectl describe pod <pod-name>
+
+CICd pipeline in yaml ( github actions ) 
+
+IAm policy in json format 
